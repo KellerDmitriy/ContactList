@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E17617D329F070AD00FE5599 /* PersonContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17617D229F070AD00FE5599 /* PersonContactViewController.swift */; };
 		E1CB000629EE945400DD555D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1CB000529EE945400DD555D /* AppDelegate.swift */; };
 		E1CB000829EE945400DD555D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1CB000729EE945400DD555D /* SceneDelegate.swift */; };
 		E1CB000A29EE945400DD555D /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1CB000929EE945400DD555D /* ContactViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E17617D229F070AD00FE5599 /* PersonContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonContactViewController.swift; sourceTree = "<group>"; };
 		E1CB000229EE945400DD555D /* ContactList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1CB000529EE945400DD555D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1CB000729EE945400DD555D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				E1CB000929EE945400DD555D /* ContactViewController.swift */,
+				E17617D229F070AD00FE5599 /* PersonContactViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				E1CB000629EE945400DD555D /* AppDelegate.swift in Sources */,
 				E1CB002129EE9CB800DD555D /* DataStore.swift in Sources */,
 				E1CB000829EE945400DD555D /* SceneDelegate.swift in Sources */,
+				E17617D329F070AD00FE5599 /* PersonContactViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
